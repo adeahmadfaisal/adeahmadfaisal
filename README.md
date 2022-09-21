@@ -1,3 +1,4 @@
+![Alt text](https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/trex.gif "Optional title")
 ### Hi there 👋
 
 <!--
